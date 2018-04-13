@@ -1,5 +1,4 @@
 Spring 2017
 
 # Terrain Generation
-
-Программа производит генерацию рельефа карты, представленной полем из правильных шестиугольников, с уклоном на его естественность 
+Automatic generation of map terrain, represented the field of regular hexagons, with emphasis to its naturalness
